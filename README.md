@@ -1,9 +1,17 @@
 # TermToolbox
 Make easy colorful menus and graphics to your shell scripts 
 
-![Image of Terminal-post-it](https://github.com/hexabitsweden/Terminal-post-it/blob/main/example.png?raw=true)
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/main.png?raw=true)
 
-![Image of Yaktocat](https://github.com/hexabitsweden/Terminal-post-it/blob/main/result.png?raw=true)
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/tdraw.png?raw=true)
+
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/tdraw_man.png?raw=true)
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/tbar2.png?raw=true)
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/tbar1.png?raw=true)
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/hello_world-color.png?raw=true)
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/factory-colors.png?raw=true)
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/twoliners.png?raw=true)
+![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/oneliner.png?raw=true)
 
 ## Getting Started
 Donwload and extract. Or clone from this site.
