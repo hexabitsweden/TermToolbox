@@ -1,5 +1,6 @@
 # TermToolbox
 Make easy colorful menus and graphics to your shell scripts 
+or C-programs.
 
 ![Image of TermTools](https://github.com/hexabitsweden/TermToolbox/blob/main/screenshots/main.png?raw=true)
 
@@ -32,8 +33,17 @@ tcolor yellow "****************************************"
 ```
 Help
 ```
-the commands with no imput show help
+All the commands (tbar,traw,tcol etc) will show help if they dont get any input or flags
 ```
+More info
+```
+tcolor prints a newline after the text but tcolor(l) doesnt.
+```
+And 
+```
+tbar and tline are the same but tbar prints a newline after blocks and tline does not.
+```
+More info is in info.txt in each folder.
 
 ### Prerequisites
 
