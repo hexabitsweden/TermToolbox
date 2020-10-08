@@ -1,0 +1,2 @@
+tbar is prints a newline at the end.
+tline is the version that does not.
