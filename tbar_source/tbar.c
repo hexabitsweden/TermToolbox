@@ -3,7 +3,7 @@
 #include <string.h>
 #include "tbar.h"
 #define BUFF 50
-
+/* Testing commit from VIM...*/
 int tick;
 char icol[BUFF];
 
