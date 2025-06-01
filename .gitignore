@@ -1,0 +1,4 @@
+**/*.exe
+**/*.msi
+**/*a.out
+**/*.intunewin
